@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<requests xmlns="top-up">
+  <request id="EZE" messagedate="2015-10-28" messagetime="17-05-23">
+    <msgID>332526</msgID>
+    <phonenumber>630000000000</phonenumber>
+    <amount>25</amount>
+  </request>
+  <request id="EZE" messagedate="2015-10-28" messagetime="17-07-23">
+    <msgID>332527</msgID>
+    <phonenumber>639999999999</phonenumber>
+    <amount>25</amount>
+  </request>
+</requests>
