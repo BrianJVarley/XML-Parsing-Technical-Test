@@ -32,7 +32,7 @@ namespace DingTechTest
                 ParseXML(fileContents);
 
                 Console.WriteLine("Converting request to response object..");
-
+                Console.ReadKey(true);
                 responseXML = System.Text.Encoding.UTF8.GetString(requestBytes);
             
             }
@@ -49,9 +49,7 @@ namespace DingTechTest
                 requestBytes = System.Text.Encoding.UTF8.GetBytes(fileContents);
                 Console.WriteLine("request parsing successful!");
                 Console.WriteLine("...........................");
-                Console.ReadKey(true);
-                return (requestBytes);
-                
+                Console.ReadKey(true);                
 
             }
             catch (Exception e)
@@ -59,6 +57,9 @@ namespace DingTechTest
                 Console.WriteLine("An error occurred: ", e);
 
             }
+
+            return (requestBytes);
+
         }
 
 
