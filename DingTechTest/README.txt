@@ -1,4 +1,4 @@
-﻿README - Ding Graduate .NET Developer – Technical Test Solutions
+﻿README - Graduate .Net Technical Test - XML Request and Response Parser
 
 Developer - Brian J Varley
 

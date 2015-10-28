@@ -54,9 +54,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DingTechTest\DingTechTest.csproj">
+    <ProjectReference Include="..\DingTechTest\XMLParserTest.csproj">
       <Project>{d1d84e55-c049-4611-8138-fb12a5a93052}</Project>
-      <Name>DingTechTest</Name>
+      <Name>XMLParserTest</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

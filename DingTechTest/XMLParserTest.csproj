@@ -45,7 +45,6 @@
     <Compile Include="XMLTopUpParser.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App Specification Document\ding - Graduate .NET Developer- Technical Test - V03 %282%29.pdf" />
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>

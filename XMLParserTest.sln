@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DingTechTest", "DingTechTest\DingTechTest.csproj", "{D1D84E55-C049-4611-8138-FB12A5A93052}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLParserTest", "DingTechTest\XMLParserTest.csproj", "{D1D84E55-C049-4611-8138-FB12A5A93052}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{452A7F09-87FD-4C38-B99D-A95049011D86}"
 EndProject
