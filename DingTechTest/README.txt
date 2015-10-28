@@ -26,3 +26,19 @@ API integration questions -
 6.What other platforms has the API been integrated and developed for?
 7.Are there any usage/traffic limits with the API?
 8.How active is the API in daily usage, ie, how many calls are made to the API daily?
+
+Conclusions/Notes:
+
+#The parsing of a response, throws an error code 99 when looping through the byte array. 
+Not sure if looping through the index values rather than the integer values associated 
+with each index in byte array. Feedback appreciated.
+
+#What text encoding format was expected for the sending side of the request data?
+
+#Should I have feed the byte array from the original request byte array or the 
+raw byte array from the technical test PDF?
+
+#UnitTest passed as expected with sample XML data.
+
+#The console app contains some `Console.ReadKey(true);` so just hit enter to keep 
+stepping through the application.
