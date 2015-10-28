@@ -6,7 +6,7 @@ Developer - Brian J Varley
 
 *Part 1:
 
-See console application, "XMLTopUpParser"
+See console application, "XMLTopUpParser" and associtaed unit test project.
 
 *Part 2:
 
